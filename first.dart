@@ -1,5 +1,5 @@
-main void(){
+void main(){
     String name="prince";
     String sirname = "JAT";
-    print($name,$sirname)
+    print(name+" "+sirname);
 }
